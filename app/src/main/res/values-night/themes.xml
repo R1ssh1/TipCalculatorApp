@@ -1,7 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Tester" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColor">@color/complimentary_golden</item>
+        <item name="android:progressTint">@color/complimentary_golden</item>
+        <item name="android:progressBackgroundTint">@color/complimentary_golden</item>
+        <item name="android:thumbTint">@color/complimentary_golden_darker</item>
+
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:colorBackground">@color/background_blue</item>
     </style>
 </resources>
