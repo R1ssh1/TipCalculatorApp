@@ -1,4 +1,4 @@
-**TIP CALCULATOR APP V1.1**
+**TIP CALCULATOR APP (Baksh) V1.2**
 
 
 The Tip Calculator App is a mobile app I am making as a project to help improve my skills in Kotlin Android App Development.
